@@ -1,5 +1,5 @@
 # Zeraki_Assesment
-This an assestment task from Zeraki. You can fing the questions [here] 👋
+This an assesment task from Zeraki Learning. You can find the questions [here] 👋
 
 <br />
 
@@ -9,8 +9,6 @@ This an assestment task from Zeraki. You can fing the questions [here] 👋
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
 
 
-<br />
-<br />
 
 
 [here]: https://github.com/ErickNyagilo/Zeraki_Assesment/blob/main/assessment.pdf
